@@ -1,3 +1,33 @@
-h1 {
+body {
+color: white;
+background-color: black;
+font-family: Verdana;
+}
 
+h1, h2, p, a {
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+a {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+#copy-write {
+  text-align: right;
 }
